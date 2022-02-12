@@ -3,3 +3,4 @@
 results/
 anechaev/
 data/*/*
+__pycache__/
