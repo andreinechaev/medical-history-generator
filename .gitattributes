@@ -1,0 +1,2 @@
+ru_med_gpt3sm_based_on_gpt2 filter=lfs diff=lfs merge=lfs -text
+ru_med_gpt3sm_based_on_gpt2/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text

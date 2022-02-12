@@ -1,0 +1,12 @@
+name: nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - transformers
+  - matplotlib
+  - jupyterlab
+  - beautifulsoup4
+  - pandas
+prefix: /Users/andrei/miniforge3/envs/nlp
